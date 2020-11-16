@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="select_town">Город</string>
+    <string name="current_time">Время</string>
+    <string name="current_temp">Температура</string>
+    <string name="temperature">Днем/Ночью</string>
+    <string name="message">Описание</string>
+</resources>
